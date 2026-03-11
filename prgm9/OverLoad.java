@@ -24,7 +24,7 @@ System.out.println("\n3. Area of the Circle");
 System.out.println("\n4. Exit");
 int choice;
 float a , b;
- double x;
+double x;
 choice = sc.nextInt();
 switch(choice) {
 case 1:
